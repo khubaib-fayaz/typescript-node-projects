@@ -1,0 +1,1 @@
+npx quiz-by-khubaib
